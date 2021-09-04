@@ -1,0 +1,4 @@
+the file code.txt contains the main code
+the file code_file.cpp duplicates content the code.txt 
+the file lab.cpp  is educational in nature for students.
+the file main_file.txt contains all the recommendations for writing code and the way to achieve the set goals.
